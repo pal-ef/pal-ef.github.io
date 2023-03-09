@@ -71,3 +71,5 @@ kramdown:
   show_warnings     : false
 
 theme: minima
+
+title: Welcome
